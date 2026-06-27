@@ -19,6 +19,7 @@ Each problem folder contains:
 ## Language
 
 - C
+- C++
 
 ## Goal
 
