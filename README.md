@@ -1,6 +1,6 @@
 # Leetcode
 
-This repository contains my solutions to LeetCode problems solved in C.
+This repository contains my solutions to LeetCode problems solved in C/C++.
 
 ## Structure
 
@@ -19,6 +19,7 @@ Each problem folder contains:
 ## Language
 
 - C
+- C++
 
 ## Goal
 
